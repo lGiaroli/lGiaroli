@@ -12,7 +12,7 @@ A local-first Java 21 and Spring Boot app that evaluates simulated transactions 
 
 [View code and quickstart](https://github.com/lGiaroli/fraud-decision-engine-java#local-experience) · [Architecture](https://github.com/lGiaroli/fraud-decision-engine-java/blob/main/docs/architecture.md) · [Tests](https://github.com/lGiaroli/fraud-decision-engine-java/tree/main/src/test/java/com/portfolio/frauddecisionengine)
 
-[![Fraud Decision Engine dashboard showing a synthetic transaction sent to review and its persisted decision replay.](assets/fraud-decision-engine.jpg)](https://github.com/lGiaroli/fraud-decision-engine-java#local-experience)
+[![Fraud Decision Engine dashboard showing a synthetic transaction sent to review and its persisted decision replay.](assets/fraud-decision-replay.jpg)](https://github.com/lGiaroli/fraud-decision-engine-java#local-experience)
 
 To try it, start the app locally, select **New Device Review**, and then replay the same request from the transaction workbench.
 
